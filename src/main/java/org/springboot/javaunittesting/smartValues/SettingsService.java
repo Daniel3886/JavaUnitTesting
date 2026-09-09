@@ -1,4 +1,12 @@
 package org.springboot.javaunittesting.smartValues;
 
-public class SettingsService {
+import java.math.BigDecimal;
+
+public interface SettingsService {
+    BigDecimal getMinMargin();
+
+    BigDecimal getMaxMargin();
+
+    BigDecimal getPremiumShare();
 }
+
