@@ -1,4 +1,4 @@
-package org.springboot.javaunittesting;
+package org.springboot.javaunittesting.noasssertion;
 
 public interface Format {
     IResult execute();

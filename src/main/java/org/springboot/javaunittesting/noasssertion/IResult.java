@@ -1,4 +1,4 @@
-package org.springboot.javaunittesting;
+package org.springboot.javaunittesting.noasssertion;
 
 import java.util.Iterator;
 
