@@ -5,7 +5,6 @@ import org.springboot.javaunittesting.smartValues.PriceCalculator;
 import org.springboot.javaunittesting.smartValues.PriceCalculatorFactory;
 import org.springboot.javaunittesting.smartValues.SettingsService;
 
-import java.lang.management.MonitorInfo;
 import java.math.BigDecimal;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
