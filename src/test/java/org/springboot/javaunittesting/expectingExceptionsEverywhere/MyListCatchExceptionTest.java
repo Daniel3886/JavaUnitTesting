@@ -1,4 +1,4 @@
-package expectingExceptionsEverywhere;
+package org.springboot.javaunittesting.expectingExceptionsEverywhere;
 
 import org.junit.jupiter.api.Test;
 import org.springboot.javaunittesting.expectingExceptionsEverywhere.MyList;

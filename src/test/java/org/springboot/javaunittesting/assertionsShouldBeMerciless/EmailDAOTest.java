@@ -1,8 +1,6 @@
 package org.springboot.javaunittesting.assertionsShouldBeMerciless;
 
 import org.junit.jupiter.api.Test;
-import org.springboot.javaunittesting.changeTestAfterCodeIsChanged.assertionsShouldBeMerciless.Email;
-import org.springboot.javaunittesting.changeTestAfterCodeIsChanged.assertionsShouldBeMerciless.EmailDAO;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

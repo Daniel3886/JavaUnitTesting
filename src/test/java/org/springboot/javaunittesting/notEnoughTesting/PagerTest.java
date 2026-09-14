@@ -1,4 +1,4 @@
-package notEnoughTesting;
+package org.springboot.javaunittesting.notEnoughTesting;
 
 import org.junit.jupiter.api.Test;
 import org.springboot.javaunittesting.notEnoughTesting.Pager;

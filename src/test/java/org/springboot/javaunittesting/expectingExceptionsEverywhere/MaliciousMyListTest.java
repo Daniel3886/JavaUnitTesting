@@ -1,4 +1,4 @@
-package expectingExceptionsEverywhere;
+package org.springboot.javaunittesting.expectingExceptionsEverywhere;
 
 
 

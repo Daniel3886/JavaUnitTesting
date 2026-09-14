@@ -1,4 +1,4 @@
-package org.springboot.javaunittesting.changeTestAfterCodeIsChanged.assertionsShouldBeMerciless;
+package org.springboot.javaunittesting.assertionsShouldBeMerciless;
 
 
 public interface Email {
