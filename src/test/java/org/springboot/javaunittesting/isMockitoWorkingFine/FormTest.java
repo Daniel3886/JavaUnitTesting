@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class FormTest {
 
-    // this test doesn't check the Form class but instead the Mockito Framework
+    // this test doesn't check the Form class but instead the Mockito Framework,
     // So even if the Form class in empty, the test will pass because we are mocking the Form class
     // and not using the real implementation
     @Test
@@ -34,7 +34,7 @@ class FormTest {
         // when - then
         assertTrue(f.isUpdateAllowed());
     }
-    // NOTE: if the logic is much more complex then we should use mockito to test the logic in isolation
+    // NOTE: if the logic is much more complex, then we should use mockito to test the logic in isolation
     // and not the implementation of the class itself, but we would still mock the external dependencies of the class
     // and not the tested class itself!
 
