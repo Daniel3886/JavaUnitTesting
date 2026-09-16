@@ -1,9 +1,9 @@
-package org.springboot.javaunittesting.noassertiontest;
+package org.springboot.javaunittesting.noAssertion;
 
 
 import org.junit.jupiter.api.Test;
-import org.springboot.javaunittesting.noasssertion.Format;
-import org.springboot.javaunittesting.noasssertion.IResult;
+import org.springboot.javaunittesting.noAsssertion.Format;
+import org.springboot.javaunittesting.noAsssertion.IResult;
 
 import java.util.Iterator;
 

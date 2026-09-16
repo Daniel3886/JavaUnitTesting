@@ -1,9 +1,6 @@
-package org.springboot.javaunittesting.smartvalues;
+package org.springboot.javaunittesting.smartValues;
 
 import org.junit.jupiter.api.Test;
-import org.springboot.javaunittesting.smartValues.PriceCalculator;
-import org.springboot.javaunittesting.smartValues.PriceCalculatorFactory;
-import org.springboot.javaunittesting.smartValues.SettingsService;
 
 import java.math.BigDecimal;
 
